@@ -30,6 +30,8 @@ If you have a Google Cloud project running and Google Drive API enabled, go to s
      
      <img src="https://raw.githubusercontent.com/RaymondSalim/google-drive-downloader/master/src/3.png" />
      
+    ALTERNATIVELY, you can upload the client_id.json manually to google colab. Make sure to upload it to '/content'
+     
 6. Follow the steps on the google colab page
 
 
