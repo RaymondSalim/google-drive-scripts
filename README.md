@@ -2,7 +2,7 @@
 A python script that can copy and files/folders from Team Drives to your own drive
 
     
-<a href="https://colab.research.google.com/github/RaymondSalim/google-drive-scripts/blob/master/Google_Drive_Scripts.ipynb\" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/RaymondSalim/google-drive-scripts/blob/master/Google_Drive_Scripts.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
